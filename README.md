@@ -24,4 +24,4 @@ py manage.py runserver
 
 This project uses an [ExchangerateAPI](https://app.exchangerate-api.com/) API key. To run the project, create a `.env` file in the root directory and add the following:
 
-NEWS_API_KEY="your_actual_api_key_here"
+EXCHANGE_API="your_actual_api_key_here"
